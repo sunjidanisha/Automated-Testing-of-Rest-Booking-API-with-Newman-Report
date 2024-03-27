@@ -236,7 +236,10 @@ newman run Ebrahim_Hossain_SQA.postman_collection.json -e Ebrahim_Hossain_SQA.po
 ```
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/56d08c4a-dfa9-4aa3-8d52-23ccbdf25a10)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/c1680ef6-adc1-4f95-87c5-55a6df798eee)
-![image](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/0e011c95-b3d2-46e1-952b-07938ee0bfa8)
-![Newman Report Summary](https://github.com/ebrahimhossaincse/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/152195690/e5ae708d-6be9-45e8-8996-06a817f13e9d)
+![1](https://github.com/sunjidanisha/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/78694676/e56b9032-6653-4d78-817d-3be03053bf51)
+![2](https://github.com/sunjidanisha/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/78694676/2a8b27c9-e291-4799-b70a-ca3c15e3c269)
+![3](https://github.com/sunjidanisha/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/78694676/baa2a550-6527-43b4-8b4e-2bdba6d39035)
+![4](https://github.com/sunjidanisha/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/78694676/8d13c74d-7d99-4323-abe1-e9176640ef5d)
+![5](https://github.com/sunjidanisha/Automated-Testing-of-Rest-Booking-API-with-Newman-Report/assets/78694676/21cce5a3-d974-4518-9487-37b72979a794)
+
+
